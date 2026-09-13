@@ -1,0 +1,1001 @@
+emp_id,name,basic_salary,bnous,department,experience
+1,Nelle,97611.08,2392.53,Marketing,1
+2,Shelagh,96652.15,1768.95,Marketing,9
+3,Guntar,109286.81,2671.96,Human Resources,19
+4,Veda,32795.18,3836.73,Finance,29
+5,Fairlie,84885.07,1050.2,IT,5
+6,Juliane,37815.92,4581.88,Research and Development,2
+7,Wilbert,98139.83,45.29,Marketing,2
+8,Launce,105619.45,2861.55,Marketing,5
+9,Waverly,89440.71,3475.75,Operations,5
+10,Sawyer,42219.66,4315.41,Sales,13
+11,Elenore,32051.34,1260.93,Marketing,16
+12,Cullin,67816.72,4284.26,Finance,3
+13,Jesus,38923.92,4812.77,Operations,14
+14,Myrtia,69812.4,1637.78,Sales,4
+15,Winnie,43622.19,2542.26,IT,17
+16,Casar,50726.9,4773.49,Marketing,9
+17,Fredek,101073.31,1463.83,Operations,5
+18,Merissa,92303.77,153.76,IT,29
+19,Spike,78506.95,2658.41,Operations,21
+20,Barnett,40441.17,3463.22,Operations,0
+21,Caryl,31175.58,2703.01,Finance,13
+22,Rheta,92050.18,4104.12,Research and Development,14
+23,Vernice,63122.08,916.77,Sales,13
+24,Shurlocke,61416.86,2407.33,Human Resources,13
+25,Cale,104447.83,1881.45,Human Resources,17
+26,Rodolfo,77241.28,2400.37,Research and Development,0
+27,Kerrill,72960.38,2991.44,Finance,17
+28,Caesar,30675.35,3750.71,Operations,15
+29,Bertina,87739.24,4538.77,Marketing,11
+30,Heidie,50022.42,734.25,Finance,25
+31,Jessi,108358.51,3039.58,Research and Development,24
+32,Giuseppe,59900.02,2772.03,Marketing,20
+33,Robby,66291.8,3060.91,IT,18
+34,Rafaelia,98423.25,1705.67,Operations,25
+35,Addie,56632.46,4710.64,Operations,22
+36,Wilmette,42481.51,1763.92,IT,15
+37,Chadd,98885.34,352.3,IT,6
+38,Reggy,71901.33,1293.84,Research and Development,30
+39,Dorian,99904.56,2780.49,Finance,27
+40,Ronny,37886.63,498.01,Operations,1
+41,Honey,82333.25,4260.07,Human Resources,14
+42,Braden,65340.34,386.53,IT,26
+43,Normand,82082.44,2187.71,IT,27
+44,Dicky,99612.59,3646.5,Marketing,2
+45,Rorke,32309.89,3986.54,Operations,15
+46,Claiborn,105817.38,3940.0,Marketing,5
+47,Celestina,44038.94,3246.43,Sales,1
+48,Kordula,39176.56,4122.17,Marketing,25
+49,Thurston,34206.38,2447.75,Marketing,29
+50,Natal,92475.21,4878.65,Finance,29
+51,Earvin,92389.36,3385.71,Sales,0
+52,Blinny,78283.29,2354.11,IT,21
+53,Erasmus,67742.78,3753.97,Marketing,5
+54,Maurise,83886.38,2982.37,Operations,10
+55,Griselda,91973.73,4988.23,Human Resources,19
+56,Kary,75351.89,4088.01,Sales,4
+57,Loutitia,104975.05,22.0,IT,0
+58,Cris,84029.84,1074.13,Finance,21
+59,Brad,100888.31,1610.5,Human Resources,24
+60,Berny,111472.94,3935.8,Human Resources,1
+61,Dorolice,50904.92,4204.52,Research and Development,23
+62,Ulberto,104133.75,4589.21,Operations,19
+63,Shanan,107336.38,1637.37,Research and Development,0
+64,Giustino,40547.11,4200.58,Human Resources,28
+65,Missie,40021.7,1955.43,IT,15
+66,Tandi,107020.39,1852.75,Human Resources,19
+67,Kacie,97232.55,4345.66,Sales,27
+68,Porter,78211.14,4996.21,Finance,7
+69,Carolann,46858.1,2314.92,IT,27
+70,Sarine,103738.56,1002.66,Human Resources,6
+71,Vernice,44702.05,2117.79,Sales,20
+72,Stu,65288.35,2778.25,Marketing,5
+73,Meghan,55681.4,2213.8,Operations,12
+74,Avril,113459.77,303.67,Human Resources,7
+75,Noelyn,49742.53,4965.75,IT,1
+76,Prudence,107317.23,2113.0,Sales,17
+77,Garth,93079.09,2427.6,IT,28
+78,Hayyim,70205.53,4000.03,Marketing,30
+79,Shanie,58600.65,3688.18,Human Resources,26
+80,Floris,119203.51,337.55,Research and Development,29
+81,Ame,58948.54,1218.93,Finance,1
+82,Arabele,92087.11,1900.15,Operations,13
+83,Rudy,68917.05,7.58,Research and Development,11
+84,Natalee,50571.88,527.74,Finance,12
+85,Llewellyn,58290.89,232.7,Marketing,6
+86,Neal,67282.14,326.0,IT,21
+87,Rhona,114686.73,1524.16,Research and Development,7
+88,Evin,30365.04,992.59,Operations,7
+89,Jaimie,86171.48,4830.79,Sales,16
+90,Kathi,117298.81,3756.98,Sales,30
+91,Lizzy,108193.47,1011.58,Operations,18
+92,Horace,50794.13,4071.6,Finance,23
+93,Cary,77035.49,2720.28,Operations,8
+94,Lola,43749.2,4596.24,IT,13
+95,Kimble,111117.87,3367.52,Finance,27
+96,Eleanore,101946.91,2901.97,IT,2
+97,Wilbert,54088.73,3147.44,Finance,25
+98,Maurits,36982.53,94.83,Marketing,10
+99,Dionisio,95250.5,1434.79,Research and Development,24
+100,Archibaldo,46141.4,1832.18,Human Resources,8
+101,Merrill,56976.59,964.44,Finance,6
+102,Esteban,81919.43,4346.1,Research and Development,24
+103,Der,33859.04,3141.08,Operations,8
+104,Lonnie,40527.98,1296.55,Sales,27
+105,Asia,79542.32,716.99,Human Resources,9
+106,Finlay,35910.48,4989.52,Research and Development,27
+107,Janeta,43835.04,1317.36,Sales,28
+108,Tobie,39622.17,1375.28,Human Resources,16
+109,Magdaia,92291.2,362.16,Finance,25
+110,Gaylene,95887.9,4197.3,Human Resources,1
+111,Alanah,86720.2,93.86,Finance,14
+112,Berni,32240.32,4227.39,IT,6
+113,Bernie,42680.23,349.54,Sales,20
+114,Claudelle,99354.06,4900.06,Operations,19
+115,Ollie,30268.91,1034.8,Marketing,26
+116,Stephen,50574.5,1725.45,Human Resources,21
+117,Cariotta,73033.2,4065.74,IT,22
+118,Maribeth,80632.9,4408.23,Finance,9
+119,Iain,83805.12,4177.43,Operations,10
+120,Lemmy,58078.42,1199.72,Human Resources,16
+121,Harrison,106707.69,2697.34,Marketing,8
+122,Sonya,106875.46,3801.24,Human Resources,1
+123,Jen,91664.37,4600.17,Research and Development,13
+124,Edythe,46940.14,3505.23,Research and Development,17
+125,Ciro,91645.9,4643.18,Sales,0
+126,Harlin,77420.41,4663.47,Human Resources,24
+127,Merola,42723.26,3490.71,Human Resources,9
+128,Feliks,67009.26,4028.19,IT,6
+129,Griff,97696.5,3333.83,Sales,7
+130,Bjorn,91428.35,2771.82,Finance,12
+131,Skylar,101899.29,3617.86,Human Resources,26
+132,Osbourne,92270.51,1825.42,IT,6
+133,Thaxter,82814.89,1364.42,Sales,13
+134,Amil,72998.79,4828.53,Human Resources,15
+135,Garnet,96737.65,4968.33,Operations,17
+136,Jeanna,73936.57,783.6,Marketing,7
+137,Barbee,67038.02,1069.16,Operations,4
+138,Riane,85714.19,3735.76,Finance,8
+139,Nada,62731.08,3038.82,Sales,13
+140,Lisa,93553.34,3126.29,Finance,5
+141,Connie,59884.95,3924.47,Human Resources,22
+142,Jorgan,93194.62,4584.68,Marketing,2
+143,Morissa,42969.27,2938.92,Operations,28
+144,Shantee,102246.45,861.58,Human Resources,19
+145,Madelon,109172.65,4077.78,Marketing,21
+146,Thedrick,61526.6,3824.65,Human Resources,12
+147,Heida,59717.13,2750.57,Research and Development,15
+148,Haley,94387.3,265.57,Marketing,28
+149,Ranice,80664.23,2697.57,Sales,18
+150,Ester,58504.73,1132.08,Research and Development,3
+151,Marlo,83449.57,1962.67,Human Resources,24
+152,Ardisj,52847.02,4425.72,Human Resources,9
+153,Kamilah,49060.67,1173.29,Sales,0
+154,Johnathan,64803.45,3275.74,Human Resources,1
+155,Hillary,52899.01,912.68,Human Resources,10
+156,Tiertza,89672.84,3384.3,Finance,21
+157,Renata,117710.55,851.42,IT,28
+158,Phylys,76839.05,4620.63,Finance,14
+159,Lavinie,55290.66,3207.44,Marketing,8
+160,Flory,80636.84,1717.81,Human Resources,23
+161,Dana,101151.49,4590.5,Research and Development,7
+162,Chrysa,70385.92,2989.37,Research and Development,29
+163,Mortie,113307.35,1664.84,IT,12
+164,Diane-marie,93721.25,554.68,Operations,26
+165,Nettle,44887.7,2855.91,Marketing,17
+166,Kevin,115391.06,3760.87,IT,27
+167,Frank,88350.67,2221.57,Marketing,16
+168,Hendrik,117843.06,4548.82,Sales,1
+169,Granny,104555.81,2168.53,Marketing,29
+170,Frederik,111056.09,3944.89,Finance,20
+171,Gus,100478.0,2702.26,Operations,27
+172,Solomon,33477.34,81.52,Finance,8
+173,Ethan,119458.94,614.57,Human Resources,3
+174,Dianna,58569.41,4069.88,IT,26
+175,Iggie,38413.35,4019.08,Sales,17
+176,Elmore,98322.59,1629.91,Sales,24
+177,Allin,38956.33,550.44,Research and Development,17
+178,Madalyn,100612.28,4169.92,Sales,27
+179,Vivi,70741.59,4225.69,Finance,30
+180,Tabbatha,74086.71,4128.74,Research and Development,25
+181,Rebe,84342.75,3449.27,Research and Development,13
+182,Nicole,42476.63,3394.27,IT,20
+183,Caye,63511.31,2400.1,Finance,21
+184,Yolanthe,47133.13,2029.12,Finance,28
+185,Layton,99356.93,3883.93,Marketing,19
+186,Angie,79680.78,4878.19,Operations,22
+187,Madelyn,58707.94,2050.67,Operations,26
+188,Lea,55645.84,1505.0,Finance,1
+189,Howey,62600.41,4858.82,Finance,24
+190,Daniela,82554.62,2723.43,Human Resources,12
+191,Aeriell,44161.84,1637.25,Human Resources,21
+192,Phillie,37821.64,4922.22,Sales,16
+193,Camel,48915.76,4866.05,Finance,18
+194,Brandie,108768.76,3222.18,Sales,26
+195,Kathryne,107453.13,4604.65,IT,26
+196,Kyle,91529.2,3917.36,Operations,1
+197,Nathanial,35574.56,2581.2,Research and Development,14
+198,Angel,78365.47,1434.44,Research and Development,0
+199,Angie,63633.5,4041.42,Research and Development,0
+200,Blanca,99525.08,4998.57,Marketing,16
+201,Marian,106465.25,3531.21,Research and Development,21
+202,Marci,83602.31,3577.64,Finance,8
+203,Teodoro,91845.36,2492.19,Research and Development,7
+204,Perry,85749.32,3366.22,Sales,14
+205,Martie,31487.21,1844.79,Operations,12
+206,Trey,52230.93,1857.35,IT,9
+207,Trey,55956.59,2122.41,Operations,14
+208,Emeline,88806.18,1211.34,Operations,30
+209,Sissy,36615.15,3709.42,Finance,6
+210,Gradeigh,117185.16,560.39,Sales,5
+211,Candice,92467.2,3555.33,Research and Development,27
+212,Raf,52461.85,3845.95,Operations,17
+213,Baillie,79171.21,4031.91,Operations,0
+214,Rodrigo,111085.99,2600.74,Marketing,5
+215,Phil,93007.37,195.65,IT,16
+216,Alie,62938.61,2137.3,IT,14
+217,Darda,101245.39,4612.75,IT,17
+218,Venus,63648.07,3677.4,Sales,19
+219,Meredeth,54453.04,358.35,Marketing,21
+220,Ned,59677.1,2214.53,Finance,14
+221,Misti,113589.03,1766.25,Human Resources,10
+222,Roman,66423.23,1330.02,Sales,6
+223,Nealson,55695.07,95.07,Research and Development,28
+224,Chaddy,76539.26,2233.66,Marketing,3
+225,Danica,40497.01,3788.41,Marketing,23
+226,Tani,115243.81,3197.78,Human Resources,5
+227,Nicko,45717.71,2060.58,Marketing,18
+228,Anjela,119772.39,2887.71,Marketing,5
+229,Giacinta,89717.14,2935.03,Marketing,22
+230,Christye,103535.06,1013.6,Research and Development,25
+231,Sasha,32186.0,1143.32,Operations,8
+232,Brnaba,116928.54,359.17,Operations,16
+233,Desirae,106755.1,4066.9,Marketing,6
+234,Cordie,41064.23,4432.79,Sales,18
+235,Stevana,37936.63,1549.94,Sales,8
+236,Shawn,97825.52,983.99,Operations,11
+237,Fay,78132.37,3197.46,Finance,5
+238,Inga,83155.69,1824.21,Research and Development,14
+239,Tomlin,95486.93,2525.48,Human Resources,28
+240,Bertrando,101476.43,3129.43,Research and Development,30
+241,Udale,118621.22,2515.55,Research and Development,4
+242,Myrah,59947.03,1473.17,Research and Development,3
+243,Eda,45301.29,4954.72,Operations,15
+244,Astrid,104233.91,559.72,Human Resources,3
+245,Gale,94037.4,252.56,Marketing,22
+246,Brietta,43184.82,1715.36,Human Resources,12
+247,Gene,35861.85,2226.91,Operations,3
+248,Frannie,105940.05,2413.67,Operations,2
+249,Hobart,88736.98,4771.27,Finance,29
+250,Conant,102320.21,3523.9,Operations,3
+251,Saraann,30546.37,3332.96,IT,9
+252,Dyna,67928.48,3756.47,Operations,5
+253,Shaylyn,87610.5,2063.39,Finance,28
+254,Stanly,86825.04,360.31,Sales,24
+255,Shandy,106729.55,1549.33,IT,4
+256,Pearce,47400.75,3922.01,Research and Development,0
+257,Ashia,36810.76,1218.57,IT,22
+258,Sisely,44648.37,2398.42,Marketing,19
+259,Christian,85263.67,4004.76,Finance,28
+260,Kari,48820.4,2325.08,IT,11
+261,Elisha,60971.72,752.68,Finance,21
+262,Marrissa,115263.74,3597.82,Human Resources,13
+263,Mirabel,85228.93,3486.15,Human Resources,27
+264,Hinze,58651.46,2578.55,Finance,15
+265,Hildegarde,76392.35,1356.71,IT,6
+266,Clarke,80922.14,2768.78,Finance,17
+267,Lilli,87247.46,4749.07,Marketing,6
+268,Dulcea,70217.61,3712.93,Operations,7
+269,Joanie,58724.78,2715.98,Human Resources,23
+270,Dina,51137.29,2975.03,Operations,10
+271,Janos,48926.68,4282.56,Human Resources,20
+272,Bryana,104651.27,3189.88,Research and Development,26
+273,Anatol,96271.96,4186.4,Marketing,3
+274,Ty,88711.68,3063.6,Marketing,0
+275,Blondell,52004.39,2134.01,Human Resources,8
+276,Asia,40157.97,4676.29,Human Resources,2
+277,Hazlett,68321.93,3518.75,Finance,12
+278,Moyna,96826.56,3247.14,Operations,23
+279,Sergei,36472.26,3095.17,Operations,27
+280,Gerome,38706.05,1736.16,Finance,24
+281,Amerigo,52265.25,443.83,IT,23
+282,Kellsie,56110.52,602.95,Human Resources,19
+283,Rhetta,92479.18,2943.71,Operations,7
+284,Rosette,113130.98,1018.26,Marketing,26
+285,Ardys,52683.36,3855.73,Human Resources,29
+286,Auguste,35275.55,902.73,Marketing,27
+287,Arabelle,119753.52,3209.96,IT,16
+288,Roda,97189.74,2802.29,IT,13
+289,Curtice,40232.93,3810.77,Human Resources,15
+290,Anders,66796.4,1919.47,Human Resources,23
+291,Tammy,89145.79,1403.71,Finance,7
+292,Rikki,66217.94,1862.46,Operations,13
+293,Breanne,61698.82,4837.62,IT,8
+294,Elana,62559.37,2896.12,Research and Development,29
+295,Lloyd,74686.53,4443.21,Marketing,12
+296,Felic,90130.09,2913.64,Operations,27
+297,Bing,96222.29,1720.96,Human Resources,20
+298,Cordey,96002.83,1609.86,IT,11
+299,Giovanna,45464.25,2438.61,Sales,30
+300,Jacquie,91968.71,996.19,Human Resources,0
+301,Inger,59391.86,4469.93,Marketing,20
+302,Jack,41316.75,2235.77,Sales,19
+303,Jamie,88954.01,2852.23,Finance,9
+304,Lynelle,114430.85,1697.06,Research and Development,1
+305,Marta,59695.4,2780.96,Operations,18
+306,Fawne,38216.03,2065.68,IT,17
+307,Karyn,69278.42,960.84,Operations,10
+308,Grete,83954.1,1395.05,Finance,19
+309,Ivory,95832.99,2126.89,Human Resources,30
+310,Giulia,104077.69,521.84,Marketing,9
+311,Heidi,40181.92,2486.44,Finance,8
+312,Hymie,117944.34,3546.68,IT,4
+313,Ermanno,64113.96,1334.94,Marketing,30
+314,Aloisia,73906.1,59.76,Sales,7
+315,Christean,114205.93,2249.07,IT,30
+316,Ruprecht,37048.1,700.57,Sales,13
+317,Brinna,55897.71,1550.8,Marketing,0
+318,Horten,92540.71,3554.8,Marketing,14
+319,Barbette,90642.39,2676.64,Marketing,14
+320,Michele,65554.01,1805.79,Finance,4
+321,Dorothy,44353.97,3396.68,Marketing,26
+322,Kary,79697.45,4818.1,Marketing,10
+323,Murielle,46277.94,2603.87,Operations,13
+324,Glennie,107790.1,3754.83,Sales,6
+325,Rosene,92274.09,1316.7,Operations,7
+326,Sidnee,108069.99,2994.59,IT,11
+327,Alfonso,99292.37,3699.37,Human Resources,8
+328,Maude,62349.95,679.78,Research and Development,25
+329,Rosamund,50522.11,2438.34,IT,25
+330,Emmey,54321.3,4563.11,Sales,19
+331,Toby,51518.33,2862.96,Sales,13
+332,Martita,111963.42,4260.63,Finance,3
+333,Nevsa,84802.04,1370.87,Research and Development,6
+334,Sunshine,114569.38,2815.73,IT,22
+335,Sherill,113259.27,3322.92,Marketing,11
+336,Palm,83349.83,2927.98,Research and Development,6
+337,Arlinda,34988.33,2452.15,Operations,16
+338,Tamqrah,50192.68,2405.72,Finance,7
+339,Andy,90872.27,955.9,Marketing,8
+340,Corene,45821.17,3461.26,Marketing,19
+341,Tarrah,35577.55,125.75,Human Resources,30
+342,Emmalee,68654.52,2561.79,IT,3
+343,Ario,46586.03,968.06,Finance,0
+344,Lorna,71522.7,3361.03,IT,27
+345,Lulita,106316.22,2492.76,Human Resources,4
+346,Stirling,65580.43,1901.1,Finance,23
+347,Cam,65295.45,4755.61,IT,9
+348,Kathe,41217.15,4488.44,Operations,7
+349,Wynn,93205.65,50.88,IT,29
+350,Arlen,39151.74,3514.79,Research and Development,13
+351,Corbin,85892.57,1340.3,Sales,5
+352,Rolland,106515.55,2210.02,Finance,29
+353,Danielle,102594.11,2942.55,IT,25
+354,Leigh,101609.59,2447.8,Operations,6
+355,Timi,52231.68,4704.05,Sales,14
+356,Ranique,56558.63,4386.08,Finance,24
+357,Nita,88863.56,3470.13,IT,19
+358,Gay,69866.6,2546.67,Operations,15
+359,Onofredo,36939.18,1714.62,Finance,3
+360,Britteny,70177.36,4499.55,Marketing,5
+361,Annice,38593.07,2141.72,Marketing,0
+362,Rowland,113141.85,3996.31,Marketing,20
+363,Ofella,104909.55,417.25,Research and Development,19
+364,Sigfried,70662.71,730.1,IT,21
+365,Gradey,85961.56,343.56,Sales,3
+366,Tallou,80011.74,1734.45,Research and Development,16
+367,Aubrey,61820.95,890.4,Sales,3
+368,Eileen,88405.0,4276.09,Operations,18
+369,Elora,40107.74,2944.38,Operations,17
+370,Reinaldo,39878.79,3450.33,Operations,27
+371,Bernardina,63688.06,3157.05,Human Resources,2
+372,Dru,103013.31,4963.5,Operations,14
+373,Windy,34590.7,540.3,IT,4
+374,Cordelie,39255.26,4658.05,Marketing,4
+375,Madeline,89823.75,4036.42,Research and Development,1
+376,Janelle,92932.62,2951.16,Marketing,11
+377,Cchaddie,78755.41,2092.02,Marketing,2
+378,Meade,41586.52,364.3,Human Resources,29
+379,Evanne,84178.73,2099.19,Marketing,4
+380,Finn,80626.49,4517.27,Research and Development,27
+381,Sashenka,117224.74,2823.09,Finance,23
+382,Woodie,45966.56,1391.56,Operations,25
+383,Leah,77951.38,2711.9,Marketing,9
+384,Maddie,87506.1,4663.71,Finance,5
+385,Gideon,62892.65,3302.91,IT,11
+386,Codie,103512.93,2789.06,Finance,26
+387,Luciana,88339.16,16.85,Marketing,7
+388,Cheri,72764.41,2423.89,Human Resources,21
+389,Husain,77525.36,3840.48,Operations,13
+390,Nicoli,50187.5,310.79,IT,16
+391,Ximenes,105995.62,4303.56,Operations,8
+392,Christophe,95924.17,3453.0,Human Resources,28
+393,Danyette,99050.34,2923.1,Sales,5
+394,Trisha,112759.42,1686.56,IT,21
+395,Phylis,76851.83,797.03,IT,9
+396,Dirk,72686.63,3802.39,Research and Development,4
+397,Sabine,80737.04,9.51,Operations,13
+398,Pauli,111375.77,4239.11,Sales,23
+399,Reina,60562.88,4866.02,Human Resources,18
+400,Berke,118930.76,2470.64,Human Resources,15
+401,Tatiana,82006.24,3723.92,Research and Development,13
+402,Donaugh,86841.45,3485.47,Human Resources,15
+403,Shelley,88228.76,1022.68,Human Resources,13
+404,Tania,113427.18,2764.17,Finance,17
+405,Jeana,57842.26,2460.74,Marketing,8
+406,Nelle,84458.74,1689.55,Sales,26
+407,Prissie,70187.03,2552.69,Marketing,5
+408,Tally,117670.3,3918.55,Human Resources,14
+409,Pet,43112.29,1069.31,Marketing,13
+410,Blaine,96545.27,3118.58,IT,9
+411,Jeffy,93313.44,3681.15,Marketing,19
+412,Floris,113139.6,1581.86,IT,8
+413,Rafaelia,78581.63,3436.29,Finance,27
+414,Hermon,64216.19,2483.2,IT,19
+415,Auguste,59671.85,4902.74,Sales,12
+416,Frants,58540.27,2694.67,Human Resources,5
+417,Matthiew,54434.35,3649.28,Marketing,18
+418,Maressa,92725.07,4306.37,Research and Development,26
+419,Aksel,86356.26,1547.76,Operations,10
+420,Clementina,100492.36,3873.76,Research and Development,17
+421,Hi,87932.96,2973.33,Research and Development,0
+422,Lilllie,59731.68,4767.33,Human Resources,28
+423,Padraig,119642.41,3321.5,Finance,24
+424,Flin,93409.35,2333.76,Operations,4
+425,Winona,62553.53,4696.04,Human Resources,26
+426,Lyndsie,33813.45,3060.83,Finance,29
+427,Anna-diana,111353.87,1693.46,Research and Development,23
+428,Missie,95468.97,2657.57,Finance,25
+429,Murial,62554.94,75.86,Research and Development,5
+430,Kyla,81442.04,1928.5,Marketing,8
+431,Daron,54228.09,3841.28,Marketing,13
+432,Cris,71764.53,2053.79,IT,7
+433,Heida,99669.42,2791.05,Sales,28
+434,Janetta,66252.42,2952.98,Operations,22
+435,Lannie,43276.59,2465.35,Research and Development,27
+436,Mattheus,60447.42,736.51,Human Resources,16
+437,Donaugh,71527.36,2733.89,Human Resources,12
+438,Murray,61593.4,2563.28,Operations,15
+439,Benjamin,108722.84,288.56,Sales,19
+440,Merl,93392.59,375.18,Research and Development,28
+441,Granger,44800.92,453.35,Finance,29
+442,Simone,75587.53,1140.44,Finance,8
+443,Marcella,74224.7,4289.99,Sales,2
+444,Beverie,94475.66,4009.41,Human Resources,25
+445,Benedikta,96468.95,4836.86,Sales,21
+446,Leena,70092.16,305.73,Human Resources,24
+447,Cobby,87586.03,1591.98,Marketing,5
+448,Worth,70314.39,4030.1,IT,12
+449,Ezri,107371.04,716.82,Finance,25
+450,Bess,36533.39,4833.37,Research and Development,7
+451,Marcos,37296.97,2540.53,Marketing,27
+452,Mark,46784.11,785.63,IT,26
+453,Clarabelle,52382.91,79.39,Sales,13
+454,Ericha,80224.31,1616.54,Operations,24
+455,Marlane,35371.03,3110.25,Finance,13
+456,Thorndike,48229.58,748.06,Human Resources,15
+457,Chase,69112.08,982.5,Marketing,4
+458,Marleen,36480.8,2690.11,Sales,16
+459,Brade,44283.81,2906.14,Finance,27
+460,Boniface,54390.81,4321.94,IT,23
+461,Alyosha,80102.95,2987.95,IT,13
+462,Kimmi,88938.24,2000.37,Research and Development,0
+463,Zuzana,73276.06,3238.05,Marketing,13
+464,Kevyn,114308.62,885.14,Research and Development,30
+465,Cami,90852.69,4903.43,Sales,14
+466,Ad,72595.58,4568.68,Sales,24
+467,Adam,73195.12,4301.78,Sales,19
+468,Hamil,113392.64,1143.29,Finance,20
+469,Jacky,47119.68,155.57,Finance,25
+470,Ephrem,58929.73,275.12,Operations,27
+471,Granny,30538.64,2202.39,Operations,0
+472,Annabela,112730.72,4043.67,Sales,3
+473,Constantia,88032.69,4458.05,Marketing,6
+474,Oates,107370.03,576.78,IT,26
+475,Danita,61103.82,2791.09,Finance,11
+476,Barbette,112994.93,532.01,Sales,26
+477,Valentine,46199.75,3838.87,Research and Development,2
+478,Veronique,111805.01,760.33,Research and Development,6
+479,Athena,107180.08,2479.66,Finance,1
+480,Harwilll,51282.03,3721.31,IT,1
+481,Bernhard,55355.83,263.79,Finance,9
+482,Ozzie,92823.18,4868.97,Research and Development,25
+483,Leo,91320.57,832.96,Marketing,10
+484,Maxie,66011.33,4329.85,IT,3
+485,Waly,77494.7,2983.15,IT,15
+486,Junette,87858.81,785.23,Operations,10
+487,Koressa,113435.45,1447.82,Marketing,1
+488,Odele,33481.21,2086.4,Finance,27
+489,Kary,52779.63,2269.92,Research and Development,12
+490,Merrie,116001.06,2171.04,Finance,21
+491,Asa,113614.08,878.84,IT,28
+492,Aurelie,48295.45,895.54,Marketing,24
+493,Etti,67777.22,530.63,Operations,25
+494,Shelby,69402.42,4246.49,Sales,29
+495,Kelsi,51322.86,2469.26,Finance,15
+496,Krispin,93802.01,2985.98,Human Resources,2
+497,Dael,81066.7,3521.41,Research and Development,17
+498,Emmott,75304.74,4162.7,Human Resources,26
+499,Kakalina,30017.28,3190.55,Human Resources,23
+500,Ruddie,75928.01,2714.71,Operations,21
+501,Pamella,93725.17,2791.84,Operations,5
+502,Onida,54711.65,3572.91,Research and Development,10
+503,Rayna,114683.83,2978.38,Marketing,26
+504,Franciska,97102.28,1260.71,Marketing,9
+505,Clarke,104781.71,4429.46,Marketing,23
+506,Leland,34543.85,3131.11,Operations,24
+507,Fran,94116.71,4928.07,Operations,19
+508,Leonid,84310.3,4024.31,Human Resources,1
+509,Petr,89454.76,3998.9,Operations,4
+510,Mariana,39873.03,3454.94,Finance,22
+511,Garrott,72811.36,4718.12,Operations,1
+512,Alysa,73334.73,2466.14,Operations,23
+513,Cherise,119886.73,2917.12,Sales,17
+514,Tally,61769.99,2863.51,IT,9
+515,Rockey,113478.0,2130.49,Finance,25
+516,Sutherland,110362.73,751.94,Research and Development,26
+517,Anjanette,67158.82,3765.71,Operations,7
+518,Gran,107424.82,4680.85,Marketing,1
+519,Mendel,86795.51,2056.31,Sales,5
+520,Gabbi,49020.66,1328.94,Human Resources,2
+521,Isobel,86928.28,2501.62,IT,27
+522,Odessa,100020.08,1556.75,Research and Development,2
+523,Lorrie,89860.49,2230.65,Human Resources,28
+524,Donni,98391.19,2394.84,Marketing,29
+525,Colman,115457.82,3052.09,IT,16
+526,Thedric,98021.22,757.97,Sales,17
+527,Alex,46351.73,3982.94,IT,26
+528,Vanda,32082.15,919.69,Marketing,21
+529,Moyra,48439.21,3553.82,Finance,27
+530,Cherida,90623.54,3599.9,Finance,14
+531,Ethel,107689.2,73.39,Marketing,24
+532,Danette,79463.67,2615.66,Marketing,15
+533,Julina,112831.06,2671.85,Sales,21
+534,Benyamin,53223.88,46.85,Finance,14
+535,Meredith,112208.61,2028.92,Research and Development,6
+536,Lou,110093.42,61.84,Operations,18
+537,Raviv,98169.84,3052.75,Operations,18
+538,Stepha,80098.54,3699.71,Research and Development,30
+539,Savina,62279.34,3420.21,Finance,9
+540,Richie,37647.94,1383.53,IT,19
+541,Carroll,119579.99,2696.83,Human Resources,18
+542,Jenna,91458.31,753.83,Human Resources,9
+543,Zabrina,56286.06,2836.34,Research and Development,21
+544,Dunn,85799.58,1765.59,Sales,23
+545,Lisette,67838.9,4548.77,Human Resources,24
+546,Cassie,93668.07,1669.3,Research and Development,4
+547,Kristoffer,116176.32,3048.96,IT,19
+548,Broddie,84337.75,2335.85,Human Resources,13
+549,Shawn,33040.32,4736.5,Marketing,28
+550,Stillmann,80708.54,2941.14,Research and Development,8
+551,Roberto,37854.63,3666.59,Finance,12
+552,Madelle,33895.83,3605.59,Finance,30
+553,Licha,78852.41,2756.59,Finance,2
+554,Nike,42197.26,2805.38,Research and Development,20
+555,Harwell,91693.14,1785.73,Finance,25
+556,Ike,90594.65,1076.83,Human Resources,12
+557,Nobie,86123.94,1113.58,Research and Development,11
+558,Heinrick,51947.38,3660.92,Sales,23
+559,Sherri,105547.98,4200.78,IT,20
+560,Davis,80518.52,830.41,Human Resources,18
+561,Sascha,104346.68,2837.39,Marketing,22
+562,Marwin,60836.5,3288.78,Research and Development,11
+563,Rubina,57236.25,3073.48,IT,19
+564,Wallis,44914.9,2556.89,Marketing,25
+565,Bronnie,43971.65,3747.8,IT,8
+566,Mandie,57712.65,4025.81,Human Resources,16
+567,Jeralee,94151.75,2625.94,Marketing,4
+568,Price,49746.74,2017.39,Sales,28
+569,Geno,63099.75,1425.92,Sales,5
+570,Cullen,98445.35,2355.24,Human Resources,19
+571,Henderson,112016.55,3908.06,Research and Development,29
+572,Rora,100157.47,4978.75,Research and Development,12
+573,Babbette,83111.2,3604.88,Research and Development,26
+574,Rolf,97771.15,3851.03,Sales,13
+575,Laird,54388.75,1985.0,Operations,11
+576,Bryon,72035.58,2449.97,Human Resources,10
+577,Quint,66140.37,1557.65,Finance,10
+578,Lemmy,115486.94,4455.61,Research and Development,7
+579,Craggy,60975.74,2640.13,Operations,28
+580,Zola,90179.56,1216.76,Human Resources,24
+581,Chris,74902.05,2483.49,Marketing,3
+582,Sebastien,96222.56,3791.24,Research and Development,30
+583,Burke,53528.59,1167.42,Research and Development,0
+584,Tamar,109888.25,503.02,IT,17
+585,Nikaniki,101954.5,3323.85,Finance,24
+586,Leona,94577.93,1526.54,Sales,7
+587,Otis,66342.35,2609.11,Human Resources,20
+588,Wallis,102325.46,3844.74,Operations,17
+589,Thomasina,64910.21,4852.75,Finance,3
+590,Mycah,33909.47,3408.12,Human Resources,30
+591,Kennith,61530.13,4307.15,Sales,5
+592,Rebecca,72957.09,4488.78,IT,14
+593,Holly,112143.41,1183.27,Research and Development,15
+594,Sandy,87297.75,2590.45,Research and Development,3
+595,Millisent,79267.19,601.86,Finance,23
+596,Ardyce,85399.78,1015.07,Research and Development,10
+597,Sheba,115768.0,2221.9,Marketing,7
+598,Skelly,52146.66,217.3,Finance,3
+599,Alverta,62734.14,636.02,Marketing,17
+600,Ellette,84874.85,2205.83,Finance,19
+601,Blair,87136.59,4146.78,IT,26
+602,Mallory,42955.7,2663.8,Operations,10
+603,Barclay,115621.35,3592.56,Sales,18
+604,Giustina,58740.0,1824.46,Human Resources,26
+605,Wendall,96829.16,1910.41,IT,11
+606,Netta,114966.84,1402.59,Finance,13
+607,Elbertina,70183.76,2630.28,Research and Development,18
+608,Minetta,88943.58,4323.26,Human Resources,29
+609,Joycelin,112598.56,4753.45,IT,26
+610,Rafaelita,61066.85,4924.36,Finance,2
+611,Alfonse,91435.41,499.94,Sales,16
+612,Dyana,106123.94,3074.03,Human Resources,28
+613,Petrina,68401.78,1311.5,Sales,3
+614,Darwin,102936.87,3600.01,Human Resources,14
+615,Agosto,111593.3,4690.66,IT,12
+616,Maryanne,41915.96,2133.07,Research and Development,17
+617,Errol,49641.51,2372.75,Operations,5
+618,Joshua,70210.72,3687.03,Sales,29
+619,Eduino,30365.1,3819.78,Sales,4
+620,Alvina,102363.5,616.71,IT,26
+621,Leslie,34983.97,790.9,Research and Development,28
+622,Karissa,39585.77,1334.73,Operations,17
+623,Torrey,106401.72,3154.08,Marketing,23
+624,Irvine,108356.54,19.45,IT,19
+625,Berti,92017.01,4644.08,Finance,5
+626,Riley,110791.92,3556.21,Marketing,25
+627,Ingar,103799.33,3418.12,Research and Development,7
+628,Dew,44851.16,2257.5,Finance,4
+629,Hermia,101110.82,2046.08,Research and Development,26
+630,Marthe,35647.59,797.77,Finance,16
+631,Cleavland,76867.68,3280.51,Finance,15
+632,Wynne,78908.68,1362.89,Finance,16
+633,Kathleen,83178.96,48.22,Human Resources,20
+634,Carroll,118031.61,3754.99,Marketing,20
+635,Livvie,117555.12,977.5,Human Resources,17
+636,Stefa,38945.0,193.28,Operations,0
+637,Beverlie,64106.34,96.45,IT,7
+638,Liuka,50017.18,3367.75,Finance,20
+639,Jenilee,47548.08,1058.01,Sales,29
+640,Bo,35635.18,3826.27,IT,28
+641,Keefe,74927.12,4248.98,Finance,20
+642,Morgen,41326.83,591.14,Marketing,29
+643,Gerda,96557.85,1492.84,IT,5
+644,Boycey,89021.2,2050.41,Sales,7
+645,Kelvin,41537.34,841.08,Sales,11
+646,Freedman,83602.39,84.33,Operations,7
+647,Randie,96190.12,1729.19,Sales,3
+648,Lyon,75270.66,2050.45,Operations,27
+649,Grant,105842.32,2951.28,IT,22
+650,Nero,88262.39,3148.28,Operations,3
+651,Tuesday,38692.42,1865.96,Finance,14
+652,Yard,35031.42,2532.02,IT,25
+653,Wait,99153.28,670.02,Operations,3
+654,Walther,58998.04,1096.38,Operations,9
+655,Daven,84234.79,235.49,IT,11
+656,Robbin,32939.38,2178.45,Finance,18
+657,Tami,93139.76,3416.98,Operations,10
+658,Hakim,114139.89,1656.63,Finance,25
+659,Marrissa,86798.04,2009.41,IT,15
+660,Hamlen,109274.88,1730.46,Operations,8
+661,Law,112760.37,4740.74,Operations,13
+662,Waiter,93593.48,883.92,Finance,23
+663,Suzie,47721.14,3361.61,Finance,3
+664,Reggi,46952.61,4076.71,Human Resources,20
+665,Blinny,65611.58,3910.14,Research and Development,0
+666,Harman,43570.75,1805.89,Sales,11
+667,Jada,46875.34,1301.11,Human Resources,15
+668,Lorita,53544.5,3439.27,Sales,23
+669,Felicio,114066.34,2875.27,Marketing,19
+670,Malvin,47764.13,2748.35,Human Resources,22
+671,Albert,116201.73,1901.07,Operations,13
+672,Ad,42762.52,3994.36,Marketing,28
+673,Jamesy,42611.64,934.01,Finance,9
+674,Wilmette,53801.4,559.91,Research and Development,17
+675,Gherardo,68340.38,4639.68,Finance,13
+676,Pall,39817.95,3150.49,Research and Development,3
+677,Alexandr,76155.52,4308.79,Sales,4
+678,Auberta,38487.69,3777.13,Operations,7
+679,Alvira,94115.35,1634.27,IT,10
+680,Freddie,67021.17,4116.68,Research and Development,9
+681,Bili,55260.93,2181.73,Operations,21
+682,Zebulon,91968.66,4683.16,Sales,23
+683,Wilek,84543.04,4267.45,Research and Development,0
+684,Chantalle,56059.78,2598.58,Research and Development,8
+685,Ellette,88778.15,3604.03,Human Resources,24
+686,Brittani,100990.81,3280.13,Marketing,7
+687,Ian,88269.17,1326.77,Human Resources,11
+688,Eben,65471.65,1702.4,IT,7
+689,Rasla,87891.47,4194.31,Finance,17
+690,Ricard,65652.98,4025.64,Finance,23
+691,Bevvy,118977.02,2463.94,Sales,16
+692,Pierson,40238.39,1415.06,Operations,6
+693,Quint,47510.84,4836.22,Human Resources,5
+694,Cathrin,89788.85,3800.94,Human Resources,8
+695,Huey,58323.6,670.54,IT,21
+696,Tan,66251.44,4877.98,Operations,17
+697,Ardelia,43154.53,1692.43,Human Resources,28
+698,Molly,119852.87,1547.5,Operations,6
+699,Barbey,85128.23,2975.82,Marketing,21
+700,Frants,78353.04,4107.9,IT,12
+701,Germaine,101515.19,4452.97,Sales,11
+702,Emery,119889.1,3294.11,Marketing,3
+703,Cammy,40323.82,679.36,Research and Development,6
+704,Jameson,89896.17,949.06,Human Resources,0
+705,Orren,64250.77,997.12,IT,4
+706,Jeniffer,116476.81,4182.9,Finance,24
+707,Bernita,81980.1,295.91,Finance,4
+708,Boigie,55698.08,4794.1,Sales,17
+709,Geneva,91352.15,2287.33,IT,11
+710,Tucker,64999.23,359.83,Human Resources,12
+711,Paige,102862.18,127.36,Finance,17
+712,Morey,93174.21,3371.34,Research and Development,30
+713,Garwood,84051.52,3178.17,Human Resources,19
+714,Valeria,101018.81,4990.96,Sales,22
+715,Sheba,112689.52,421.44,Operations,10
+716,Vasily,58760.78,4731.2,Operations,3
+717,Kynthia,101906.56,2189.03,Human Resources,23
+718,Orsa,51814.3,1300.52,Sales,0
+719,Hussein,55332.24,3903.27,IT,11
+720,Oralle,57442.4,146.93,Human Resources,24
+721,Nelson,67033.18,2341.2,Finance,27
+722,Dallon,97513.67,1609.27,Sales,1
+723,Son,79326.23,1868.54,Research and Development,10
+724,Rycca,72944.99,405.58,Sales,25
+725,Ragnar,46225.93,2484.16,Marketing,25
+726,Rad,108428.24,3503.35,Finance,21
+727,Read,82965.34,3714.04,Human Resources,18
+728,Karen,39370.31,2461.27,IT,23
+729,Lane,39403.82,4374.6,Operations,27
+730,Amble,36326.63,2252.01,Finance,9
+731,Vanya,34580.05,759.68,Research and Development,23
+732,Brigid,109105.25,2696.34,Human Resources,15
+733,Hewe,111278.75,1462.29,IT,2
+734,Minta,93146.74,2342.11,Human Resources,18
+735,Darlene,67377.64,4382.32,Finance,16
+736,Colleen,65270.65,4984.32,Sales,21
+737,Deeann,104196.93,1956.64,Sales,28
+738,Cyrus,53747.13,3154.52,Research and Development,26
+739,Joey,100347.61,3577.82,Sales,18
+740,Elbertina,89586.02,1871.27,Human Resources,3
+741,Elsey,45116.2,4754.13,IT,28
+742,Lilla,73066.16,2235.61,Operations,28
+743,Allister,100105.14,1594.04,Marketing,2
+744,Wallis,89355.9,1799.36,IT,12
+745,Nadeen,113225.47,2125.52,IT,17
+746,Linell,96912.08,4774.29,Operations,11
+747,Any,71199.59,998.8,Research and Development,30
+748,Thedric,70822.93,1055.39,Finance,28
+749,Mallory,66459.0,3527.77,IT,26
+750,Benedick,48990.01,2786.09,Marketing,28
+751,Mauricio,73013.9,2642.53,IT,23
+752,Joice,60063.69,1286.85,Research and Development,10
+753,Janice,84049.54,3026.87,IT,16
+754,Von,50268.33,3448.5,Finance,7
+755,Gardener,93081.14,1743.04,Research and Development,11
+756,Randie,47853.62,294.98,Human Resources,26
+757,Alexandre,78732.76,1754.98,IT,1
+758,Terrance,37416.55,137.05,Research and Development,30
+759,Aubree,58898.96,1413.96,Operations,7
+760,Dorena,35193.33,1904.26,Sales,11
+761,Kayla,45850.44,1810.43,Sales,24
+762,Jeri,55516.0,2550.6,IT,25
+763,Seana,53472.26,564.23,Operations,19
+764,Virgil,95869.19,1784.17,Research and Development,27
+765,Jaymee,46702.26,4954.99,Research and Development,22
+766,Sharleen,48530.54,2303.07,Finance,9
+767,Marj,94898.48,1015.58,Marketing,26
+768,Wyn,58980.42,2132.41,Operations,28
+769,Reamonn,61973.55,4428.86,Operations,26
+770,Mindy,110936.73,3116.95,Sales,23
+771,Lauri,107399.0,2436.33,IT,27
+772,Carlie,44115.86,4596.08,Marketing,2
+773,Stewart,115835.36,847.47,IT,21
+774,Myrlene,119617.96,2735.64,Operations,16
+775,Horatia,44187.47,3616.76,Research and Development,29
+776,Roley,85834.54,3551.57,Operations,30
+777,Osborne,69265.07,2138.44,Research and Development,7
+778,Leigh,118523.95,350.31,IT,9
+779,Chiquia,74974.2,2888.61,Research and Development,24
+780,Mose,96372.67,2417.88,Sales,13
+781,Bee,34077.72,3681.16,Human Resources,27
+782,Ashton,112004.29,1692.99,Sales,7
+783,Valentino,40661.79,129.5,Sales,28
+784,Holli,112159.23,3583.51,Research and Development,25
+785,Karon,115344.71,383.19,Research and Development,5
+786,Nadya,63063.58,1943.99,Sales,29
+787,Sophi,100597.69,1712.35,IT,5
+788,Barbabra,115222.39,630.9,Sales,18
+789,Olag,65884.81,3033.85,Finance,22
+790,Breena,100987.91,4345.27,Marketing,21
+791,Ilaire,47845.75,3552.44,IT,30
+792,Larry,107335.37,796.0,Research and Development,20
+793,Felice,44548.33,4144.81,IT,21
+794,Somerset,58351.06,83.53,Human Resources,3
+795,Bobbee,30785.39,1119.37,Operations,11
+796,Sheffy,62404.7,3757.94,Research and Development,4
+797,Yard,77228.38,3933.63,Marketing,11
+798,Artemus,106057.43,3259.48,IT,23
+799,Jackie,89978.75,4990.49,Sales,28
+800,Gaylord,58893.91,2432.5,Sales,18
+801,Spenser,31282.53,3620.46,Research and Development,10
+802,Ardith,42115.25,1604.58,Finance,10
+803,Ripley,67273.75,1361.87,Finance,23
+804,Sandro,48335.44,2442.3,Research and Development,13
+805,Dirk,61262.38,3929.45,Marketing,1
+806,Gisele,85836.13,735.24,Human Resources,12
+807,Gonzalo,75235.02,1454.86,Operations,12
+808,Sheridan,113931.05,3437.02,Operations,29
+809,Georgine,91128.99,4284.99,IT,20
+810,Dixie,50831.08,3178.28,Finance,22
+811,Hannie,41716.8,3033.95,Operations,2
+812,Marline,92983.9,2105.5,Operations,2
+813,Stearne,93046.71,3038.5,Sales,7
+814,Baxter,72195.79,2122.35,Finance,28
+815,Tailor,86934.8,2628.44,Sales,0
+816,Adina,92398.49,4123.42,IT,7
+817,Reine,95053.51,2201.95,Research and Development,26
+818,Lotti,37543.14,2813.42,Research and Development,9
+819,Marty,34470.64,1003.12,Human Resources,18
+820,Bobbette,52965.72,4071.99,Finance,20
+821,Carl,61476.38,1989.76,Finance,22
+822,Ellie,83150.35,1547.37,Marketing,22
+823,Katerina,93572.99,4098.95,IT,29
+824,Sheff,78978.41,2948.49,Marketing,6
+825,Gavrielle,110114.34,4721.86,Human Resources,18
+826,Shelia,62104.24,3646.91,Sales,13
+827,Myer,86665.98,4019.0,Finance,8
+828,Warner,86752.16,83.66,IT,17
+829,Bethany,107239.51,3195.83,Finance,10
+830,Del,74879.67,4061.39,Finance,8
+831,Benson,83715.49,2242.56,Research and Development,27
+832,Berne,53456.89,255.02,Operations,4
+833,Nissa,95430.18,4206.28,Marketing,4
+834,Jameson,74520.89,302.97,Marketing,13
+835,Euell,77740.68,1530.72,Sales,10
+836,Minetta,103763.95,3763.49,Sales,28
+837,Tammie,112316.75,4260.18,Sales,26
+838,Hieronymus,86807.45,1673.78,Operations,7
+839,Crissy,91285.21,671.43,IT,9
+840,Angie,57103.71,1885.74,Human Resources,17
+841,Katti,34330.28,4401.29,Sales,16
+842,Von,69356.24,864.97,Marketing,2
+843,Carmon,59822.92,170.74,Research and Development,4
+844,Jameson,62454.44,4936.93,IT,2
+845,Letty,45025.85,1570.7,Research and Development,3
+846,Mirabelle,35858.65,4481.81,Research and Development,27
+847,Ken,31208.28,3300.92,Sales,27
+848,Domingo,66327.83,4815.75,IT,9
+849,Editha,42308.05,3322.83,Finance,18
+850,Fae,62811.75,4442.6,Sales,12
+851,Dur,77593.25,3340.88,Sales,4
+852,Glennie,83505.26,2332.14,Marketing,14
+853,Elvis,94024.95,2174.0,Research and Development,29
+854,Ricky,114859.82,38.31,Operations,0
+855,Luciana,55120.66,2055.25,Operations,15
+856,Alli,110410.15,2776.82,Sales,22
+857,Livvy,86422.44,4470.2,Human Resources,18
+858,Page,74485.46,3632.4,Finance,30
+859,Yard,117955.14,3895.83,Research and Development,19
+860,Albert,57335.71,1577.09,Operations,13
+861,Hester,34856.95,3149.02,Sales,20
+862,Aigneis,105484.22,1627.66,Research and Development,7
+863,Nicolai,35628.24,4550.35,Operations,17
+864,Kailey,83680.55,2336.46,Research and Development,0
+865,Ami,43864.07,1410.56,Human Resources,17
+866,Vick,78840.3,3903.7,Human Resources,27
+867,Quinn,71545.57,4201.12,Marketing,21
+868,Florance,62121.41,2538.99,Operations,10
+869,Matthus,102146.34,4866.3,Marketing,7
+870,Benson,103507.21,4391.46,Research and Development,18
+871,Gwenora,64827.1,3295.49,Research and Development,1
+872,Lynda,93926.63,2704.67,IT,30
+873,Marya,100669.19,850.62,Marketing,26
+874,Robenia,117940.68,1402.41,Finance,25
+875,Fabian,67548.56,1406.5,Research and Development,3
+876,Tymon,50664.29,2649.48,Finance,20
+877,Hyacinthia,114292.61,1973.02,Sales,15
+878,Velvet,31467.59,498.92,Research and Development,18
+879,Darci,89675.06,3508.24,Marketing,13
+880,Dunstan,39628.88,3828.53,Human Resources,27
+881,Sibby,106317.6,65.52,Marketing,27
+882,Hewie,87876.24,3006.23,Research and Development,12
+883,Kimberley,105026.07,182.73,IT,5
+884,Tomaso,62411.11,360.89,Human Resources,28
+885,Krissy,51686.61,3852.91,Human Resources,19
+886,Ruthann,33140.6,3364.8,Operations,23
+887,Jillie,110877.99,4530.38,Human Resources,8
+888,Marlane,51991.98,4376.94,Finance,12
+889,Tamma,111490.31,2515.93,Sales,30
+890,Garrik,85861.5,2213.43,Sales,17
+891,Ardith,58346.78,4655.9,Research and Development,2
+892,Debor,93917.04,1913.75,IT,10
+893,Arvie,37369.91,3220.66,Marketing,19
+894,Godart,111794.95,3893.59,Operations,6
+895,Thurston,63159.3,1260.22,Marketing,19
+896,Olive,118098.97,2488.09,Operations,8
+897,Bobinette,57646.5,2939.05,Marketing,18
+898,Angelika,50143.14,3657.3,Sales,3
+899,Minette,92205.64,2075.2,Finance,2
+900,Way,66201.94,1391.24,Operations,23
+901,Amelia,31091.13,967.62,Sales,29
+902,Courtnay,42295.26,3920.79,Operations,30
+903,Brooks,52603.98,2973.95,Marketing,10
+904,Shirline,48497.96,2232.13,Operations,2
+905,Ada,82869.01,3111.87,Finance,12
+906,Tonye,44206.38,3779.3,Marketing,14
+907,Hally,65393.53,4396.17,Finance,30
+908,Jammal,43827.22,242.4,IT,3
+909,Derril,31254.54,1407.25,Research and Development,30
+910,Dasya,46481.91,266.26,Sales,19
+911,Fransisco,93305.98,1440.87,Finance,13
+912,Sloane,100860.33,2694.42,Sales,29
+913,Yolande,88848.2,662.76,Sales,6
+914,Ignatius,97198.07,1270.64,Sales,25
+915,Willie,93868.96,2592.29,Research and Development,21
+916,Jackie,76488.96,1020.18,Sales,16
+917,Keane,53517.41,4930.43,Sales,14
+918,Raoul,31065.51,2289.36,Research and Development,3
+919,Mort,117418.89,4969.92,Sales,25
+920,Enrique,73463.38,1724.94,IT,10
+921,Valene,50449.07,1176.28,Operations,24
+922,Fredra,116917.31,2694.76,Marketing,0
+923,Carolus,52241.23,4919.02,Finance,29
+924,Ryann,113353.07,513.45,IT,29
+925,Falito,35536.91,3020.39,Marketing,20
+926,Lindie,66151.09,2549.59,Operations,8
+927,Edna,119545.77,3860.81,Research and Development,14
+928,Mattias,102725.17,627.06,Finance,10
+929,Eal,75045.08,1044.13,Finance,26
+930,Eldridge,38582.03,4900.83,Human Resources,8
+931,Nerti,48654.05,1081.06,Human Resources,1
+932,Ring,30100.66,4022.21,IT,20
+933,Barton,76269.11,3302.6,Marketing,14
+934,Yoshiko,48785.72,1540.74,Finance,3
+935,Ade,99176.24,2135.25,IT,4
+936,Malinda,75631.18,3239.82,Human Resources,30
+937,Irena,83430.31,973.58,Marketing,16
+938,Toddie,69647.87,677.09,IT,1
+939,Grenville,57346.9,3409.83,IT,2
+940,Moss,51376.8,3097.48,Marketing,25
+941,Arnuad,36414.65,3954.39,Marketing,2
+942,Silvia,99950.38,4051.91,Marketing,26
+943,Herta,92633.23,3853.53,Finance,26
+944,Elora,87579.98,852.45,Human Resources,29
+945,Charla,59606.64,1427.27,Marketing,6
+946,Farah,83968.35,2648.05,Sales,13
+947,Franky,59160.69,1362.38,Sales,4
+948,Dorey,117067.89,1982.77,Operations,7
+949,Hillyer,54606.24,876.72,Finance,5
+950,Marjie,118388.85,3036.71,Marketing,11
+951,Nigel,79088.63,1055.98,Operations,8
+952,Mata,119942.13,3129.14,IT,5
+953,Edy,94053.8,4053.59,Research and Development,13
+954,Ardella,42140.36,795.98,Operations,2
+955,Odo,60063.18,4706.58,Sales,14
+956,Walker,94244.36,1076.84,Sales,12
+957,Scotti,44241.8,4213.03,Research and Development,30
+958,Rafaelita,94515.72,4446.07,Operations,27
+959,Gabi,89948.57,1326.12,Marketing,12
+960,Ronny,34708.58,3160.64,Human Resources,4
+961,Matthew,37513.62,4491.89,Finance,30
+962,Adrian,72894.49,2192.21,Sales,6
+963,Selene,40973.34,2939.4,Research and Development,30
+964,Joellen,71194.48,2073.61,Sales,28
+965,Sullivan,88464.37,731.02,Operations,5
+966,Karie,60277.82,3344.94,Marketing,6
+967,Shandee,113527.67,579.96,IT,14
+968,Sandro,72867.89,4463.69,Finance,28
+969,Tynan,48051.98,1999.25,Finance,3
+970,Karel,88124.94,3295.16,Sales,5
+971,Avrom,61555.77,4189.48,Finance,13
+972,Barb,47717.59,3651.52,Sales,11
+973,Taryn,117449.43,418.32,Sales,14
+974,Thadeus,46168.85,2839.95,Sales,22
+975,Hewet,103646.53,243.1,Marketing,3
+976,Stuart,68363.85,3316.97,IT,12
+977,Danya,31468.49,1221.98,Sales,26
+978,Aleda,42580.01,455.27,Research and Development,9
+979,Jeffie,55099.68,4477.34,Sales,4
+980,Desmund,51421.88,513.46,Research and Development,2
+981,Kimberley,36767.54,4778.13,Operations,0
+982,Jerome,55475.41,3277.01,Marketing,24
+983,Holly-anne,65758.78,3257.61,Sales,20
+984,Nelle,75895.46,2305.4,Operations,19
+985,Effie,82672.95,4326.48,IT,28
+986,Heidie,84310.18,4363.49,Marketing,6
+987,Granville,73993.08,3257.75,Finance,9
+988,Melloney,68126.7,1380.45,Human Resources,19
+989,Hobart,112726.56,1526.69,Finance,2
+990,Stacee,46194.3,4302.02,Marketing,18
+991,Nertie,86436.35,1552.11,Operations,21
+992,Inness,90039.23,1651.78,Sales,12
+993,Philomena,118828.88,1515.46,Operations,6
+994,Matty,114686.84,4544.66,IT,8
+995,Barron,45287.26,532.9,Research and Development,24
+996,Gerri,40108.44,1969.29,Finance,11
+997,Nan,59837.1,820.9,Operations,3
+998,Tatiania,71986.89,1051.99,Sales,14
+999,Brooks,107501.43,3364.51,Sales,2
+1000,Lenora,98673.59,4239.68,Finance,20
