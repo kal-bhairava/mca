@@ -1,0 +1,851 @@
+district,month,pm25
+Amritsar,2022-08-01,35.66
+Amritsar,2022-09-01,51.24
+Amritsar,2022-10-01,86.53
+Amritsar,2022-11-01,85.55
+Amritsar,2022-12-01,104.1
+Amritsar,2023-01-01,112.77
+Amritsar,2023-02-01,63.07
+Amritsar,2023-03-01,47.55
+Amritsar,2023-04-01,33.59
+Amritsar,2023-05-01,34.66
+Amritsar,2023-06-01,40.06
+Amritsar,2023-07-01,37.68
+Amritsar,2023-08-01,50.93
+Amritsar,2023-09-01,40.88
+Amritsar,2023-10-01,52.66
+Amritsar,2023-11-01,74.0
+Amritsar,2023-12-01,103.89
+Amritsar,2024-01-01,137.09
+Amritsar,2024-02-01,60.27
+Amritsar,2024-03-01,38.72
+Amritsar,2024-04-01,28.51
+Amritsar,2024-05-01,35.13
+Amritsar,2024-06-01,39.87
+Amritsar,2024-07-01,49.86
+Amritsar,2024-08-01,30.77
+Amritsar,2024-09-01,42.08
+Amritsar,2024-10-01,59.19
+Amritsar,2024-11-01,118.06
+Amritsar,2024-12-01,115.07
+Amritsar,2025-01-01,134.45
+Amritsar,2025-02-01,77.09
+Amritsar,2025-03-01,38.59
+Amritsar,2025-04-01,42.08
+Amritsar,2025-05-01,60.56
+Amritsar,2025-06-01,55.69
+Amritsar,2025-07-01,55.12
+Amritsar,2025-08-01,52.32
+Amritsar,2025-09-01,43.74
+Amritsar,2025-10-01,64.32
+Amritsar,2025-11-01,96.86
+Amritsar,2025-12-01,123.48
+Amritsar,2026-01-01,158.8
+Amritsar,2026-02-01,91.21
+Amritsar,2026-03-01,46.89
+Amritsar,2026-04-01,26.67
+Amritsar,2026-05-01,44.47
+Amritsar,2026-06-01,54.55
+Amritsar,2026-07-01,68.02
+Amritsar,2026-08-01,61.69
+Amritsar,2026-09-01,63.43
+Bathinda,2022-08-01,31.73
+Bathinda,2022-09-01,45.44
+Bathinda,2022-10-01,71.32
+Bathinda,2022-11-01,104.54
+Bathinda,2022-12-01,85.1
+Bathinda,2023-01-01,98.0
+Bathinda,2023-02-01,59.12
+Bathinda,2023-03-01,42.33
+Bathinda,2023-04-01,35.11
+Bathinda,2023-05-01,39.11
+Bathinda,2023-06-01,38.22
+Bathinda,2023-07-01,39.74
+Bathinda,2023-08-01,52.68
+Bathinda,2023-09-01,35.95
+Bathinda,2023-10-01,48.62
+Bathinda,2023-11-01,89.18
+Bathinda,2023-12-01,92.36
+Bathinda,2024-01-01,125.53
+Bathinda,2024-02-01,52.59
+Bathinda,2024-03-01,36.36
+Bathinda,2024-04-01,28.88
+Bathinda,2024-05-01,36.69
+Bathinda,2024-06-01,42.06
+Bathinda,2024-07-01,49.51
+Bathinda,2024-08-01,28.75
+Bathinda,2024-09-01,40.42
+Bathinda,2024-10-01,50.97
+Bathinda,2024-11-01,116.45
+Bathinda,2024-12-01,107.41
+Bathinda,2025-01-01,132.11
+Bathinda,2025-02-01,76.38
+Bathinda,2025-03-01,38.09
+Bathinda,2025-04-01,57.06
+Bathinda,2025-05-01,83.89
+Bathinda,2025-06-01,73.61
+Bathinda,2025-07-01,54.35
+Bathinda,2025-08-01,46.45
+Bathinda,2025-09-01,33.43
+Bathinda,2025-10-01,60.59
+Bathinda,2025-11-01,102.39
+Bathinda,2025-12-01,125.08
+Bathinda,2026-01-01,150.2
+Bathinda,2026-02-01,87.83
+Bathinda,2026-03-01,47.12
+Bathinda,2026-04-01,27.54
+Bathinda,2026-05-01,74.91
+Bathinda,2026-06-01,74.47
+Bathinda,2026-07-01,81.26
+Bathinda,2026-08-01,61.45
+Bathinda,2026-09-01,52.93
+Faridkot,2022-08-01,30.27
+Faridkot,2022-09-01,43.23
+Faridkot,2022-10-01,73.04
+Faridkot,2022-11-01,94.87
+Faridkot,2022-12-01,84.53
+Faridkot,2023-01-01,97.76
+Faridkot,2023-02-01,59.13
+Faridkot,2023-03-01,39.72
+Faridkot,2023-04-01,32.17
+Faridkot,2023-05-01,34.68
+Faridkot,2023-06-01,35.25
+Faridkot,2023-07-01,38.11
+Faridkot,2023-08-01,51.21
+Faridkot,2023-09-01,36.75
+Faridkot,2023-10-01,50.88
+Faridkot,2023-11-01,89.26
+Faridkot,2023-12-01,104.57
+Faridkot,2024-01-01,138.75
+Faridkot,2024-02-01,57.04
+Faridkot,2024-03-01,36.93
+Faridkot,2024-04-01,28.72
+Faridkot,2024-05-01,36.77
+Faridkot,2024-06-01,39.98
+Faridkot,2024-07-01,49.71
+Faridkot,2024-08-01,29.17
+Faridkot,2024-09-01,40.25
+Faridkot,2024-10-01,54.87
+Faridkot,2024-11-01,122.69
+Faridkot,2024-12-01,118.13
+Faridkot,2025-01-01,140.61
+Faridkot,2025-02-01,77.34
+Faridkot,2025-03-01,38.19
+Faridkot,2025-04-01,49.98
+Faridkot,2025-05-01,76.03
+Faridkot,2025-06-01,65.91
+Faridkot,2025-07-01,52.65
+Faridkot,2025-08-01,45.3
+Faridkot,2025-09-01,33.75
+Faridkot,2025-10-01,60.24
+Faridkot,2025-11-01,105.31
+Faridkot,2025-12-01,132.27
+Faridkot,2026-01-01,159.62
+Faridkot,2026-02-01,89.13
+Faridkot,2026-03-01,45.9
+Faridkot,2026-04-01,26.69
+Faridkot,2026-05-01,63.39
+Faridkot,2026-06-01,67.83
+Faridkot,2026-07-01,76.0
+Faridkot,2026-08-01,59.98
+Faridkot,2026-09-01,56.53
+Fatehgarh Sahib,2022-08-01,38.12
+Fatehgarh Sahib,2022-09-01,53.06
+Fatehgarh Sahib,2022-10-01,63.04
+Fatehgarh Sahib,2022-11-01,71.07
+Fatehgarh Sahib,2022-12-01,76.5
+Fatehgarh Sahib,2023-01-01,91.99
+Fatehgarh Sahib,2023-02-01,56.31
+Fatehgarh Sahib,2023-03-01,46.19
+Fatehgarh Sahib,2023-04-01,35.87
+Fatehgarh Sahib,2023-05-01,40.96
+Fatehgarh Sahib,2023-06-01,42.7
+Fatehgarh Sahib,2023-07-01,39.59
+Fatehgarh Sahib,2023-08-01,51.75
+Fatehgarh Sahib,2023-09-01,41.07
+Fatehgarh Sahib,2023-10-01,42.01
+Fatehgarh Sahib,2023-11-01,57.63
+Fatehgarh Sahib,2023-12-01,88.37
+Fatehgarh Sahib,2024-01-01,124.65
+Fatehgarh Sahib,2024-02-01,52.51
+Fatehgarh Sahib,2024-03-01,35.73
+Fatehgarh Sahib,2024-04-01,27.54
+Fatehgarh Sahib,2024-05-01,35.56
+Fatehgarh Sahib,2024-06-01,42.15
+Fatehgarh Sahib,2024-07-01,49.51
+Fatehgarh Sahib,2024-08-01,33.23
+Fatehgarh Sahib,2024-09-01,38.77
+Fatehgarh Sahib,2024-10-01,48.07
+Fatehgarh Sahib,2024-11-01,98.87
+Fatehgarh Sahib,2024-12-01,100.18
+Fatehgarh Sahib,2025-01-01,134.18
+Fatehgarh Sahib,2025-02-01,74.67
+Fatehgarh Sahib,2025-03-01,40.92
+Fatehgarh Sahib,2025-04-01,39.91
+Fatehgarh Sahib,2025-05-01,57.98
+Fatehgarh Sahib,2025-06-01,57.1
+Fatehgarh Sahib,2025-07-01,54.61
+Fatehgarh Sahib,2025-08-01,59.95
+Fatehgarh Sahib,2025-09-01,49.36
+Fatehgarh Sahib,2025-10-01,61.07
+Fatehgarh Sahib,2025-11-01,77.72
+Fatehgarh Sahib,2025-12-01,120.06
+Fatehgarh Sahib,2026-01-01,133.5
+Fatehgarh Sahib,2026-02-01,92.27
+Fatehgarh Sahib,2026-03-01,52.18
+Fatehgarh Sahib,2026-04-01,27.73
+Fatehgarh Sahib,2026-05-01,42.7
+Fatehgarh Sahib,2026-06-01,57.05
+Fatehgarh Sahib,2026-07-01,59.52
+Fatehgarh Sahib,2026-08-01,61.73
+Fatehgarh Sahib,2026-09-01,55.53
+Firozpur,2022-08-01,30.27
+Firozpur,2022-09-01,43.23
+Firozpur,2022-10-01,73.04
+Firozpur,2022-11-01,94.87
+Firozpur,2022-12-01,84.53
+Firozpur,2023-01-01,97.76
+Firozpur,2023-02-01,59.13
+Firozpur,2023-03-01,39.72
+Firozpur,2023-04-01,32.17
+Firozpur,2023-05-01,34.68
+Firozpur,2023-06-01,35.25
+Firozpur,2023-07-01,38.11
+Firozpur,2023-08-01,51.21
+Firozpur,2023-09-01,36.75
+Firozpur,2023-10-01,50.88
+Firozpur,2023-11-01,89.26
+Firozpur,2023-12-01,104.57
+Firozpur,2024-01-01,138.75
+Firozpur,2024-02-01,57.04
+Firozpur,2024-03-01,36.93
+Firozpur,2024-04-01,28.72
+Firozpur,2024-05-01,36.77
+Firozpur,2024-06-01,39.98
+Firozpur,2024-07-01,49.71
+Firozpur,2024-08-01,29.17
+Firozpur,2024-09-01,40.25
+Firozpur,2024-10-01,54.87
+Firozpur,2024-11-01,122.69
+Firozpur,2024-12-01,118.13
+Firozpur,2025-01-01,140.61
+Firozpur,2025-02-01,77.34
+Firozpur,2025-03-01,38.19
+Firozpur,2025-04-01,49.98
+Firozpur,2025-05-01,76.03
+Firozpur,2025-06-01,65.91
+Firozpur,2025-07-01,52.65
+Firozpur,2025-08-01,45.3
+Firozpur,2025-09-01,33.75
+Firozpur,2025-10-01,60.24
+Firozpur,2025-11-01,105.31
+Firozpur,2025-12-01,132.27
+Firozpur,2026-01-01,159.62
+Firozpur,2026-02-01,89.13
+Firozpur,2026-03-01,45.9
+Firozpur,2026-04-01,26.69
+Firozpur,2026-05-01,63.39
+Firozpur,2026-06-01,67.83
+Firozpur,2026-07-01,76.0
+Firozpur,2026-08-01,59.98
+Firozpur,2026-09-01,56.53
+Gurdaspur,2022-08-01,33.04
+Gurdaspur,2022-09-01,45.73
+Gurdaspur,2022-10-01,60.26
+Gurdaspur,2022-11-01,68.19
+Gurdaspur,2022-12-01,84.05
+Gurdaspur,2023-01-01,92.21
+Gurdaspur,2023-02-01,58.65
+Gurdaspur,2023-03-01,37.63
+Gurdaspur,2023-04-01,26.46
+Gurdaspur,2023-05-01,28.25
+Gurdaspur,2023-06-01,33.0
+Gurdaspur,2023-07-01,38.96
+Gurdaspur,2023-08-01,47.37
+Gurdaspur,2023-09-01,39.71
+Gurdaspur,2023-10-01,40.66
+Gurdaspur,2023-11-01,56.24
+Gurdaspur,2023-12-01,98.38
+Gurdaspur,2024-01-01,134.18
+Gurdaspur,2024-02-01,58.3
+Gurdaspur,2024-03-01,36.06
+Gurdaspur,2024-04-01,26.49
+Gurdaspur,2024-05-01,29.64
+Gurdaspur,2024-06-01,38.3
+Gurdaspur,2024-07-01,49.66
+Gurdaspur,2024-08-01,33.87
+Gurdaspur,2024-09-01,37.99
+Gurdaspur,2024-10-01,50.1
+Gurdaspur,2024-11-01,96.44
+Gurdaspur,2024-12-01,114.38
+Gurdaspur,2025-01-01,131.16
+Gurdaspur,2025-02-01,75.19
+Gurdaspur,2025-03-01,39.82
+Gurdaspur,2025-04-01,32.55
+Gurdaspur,2025-05-01,45.28
+Gurdaspur,2025-06-01,48.7
+Gurdaspur,2025-07-01,56.12
+Gurdaspur,2025-08-01,54.75
+Gurdaspur,2025-09-01,47.9
+Gurdaspur,2025-10-01,45.92
+Gurdaspur,2025-11-01,74.48
+Gurdaspur,2025-12-01,123.6
+Gurdaspur,2026-01-01,137.6
+Gurdaspur,2026-02-01,83.32
+Gurdaspur,2026-03-01,48.71
+Gurdaspur,2026-04-01,27.78
+Gurdaspur,2026-05-01,36.71
+Gurdaspur,2026-06-01,43.39
+Gurdaspur,2026-07-01,57.82
+Gurdaspur,2026-08-01,52.98
+Gurdaspur,2026-09-01,61.14
+Hoshiarpur,2022-08-01,28.79
+Hoshiarpur,2022-09-01,38.58
+Hoshiarpur,2022-10-01,47.24
+Hoshiarpur,2022-11-01,55.34
+Hoshiarpur,2022-12-01,64.78
+Hoshiarpur,2023-01-01,74.65
+Hoshiarpur,2023-02-01,41.78
+Hoshiarpur,2023-03-01,30.6
+Hoshiarpur,2023-04-01,22.97
+Hoshiarpur,2023-05-01,25.3
+Hoshiarpur,2023-06-01,31.64
+Hoshiarpur,2023-07-01,37.08
+Hoshiarpur,2023-08-01,44.47
+Hoshiarpur,2023-09-01,34.75
+Hoshiarpur,2023-10-01,30.63
+Hoshiarpur,2023-11-01,39.58
+Hoshiarpur,2023-12-01,66.48
+Hoshiarpur,2024-01-01,104.32
+Hoshiarpur,2024-02-01,40.45
+Hoshiarpur,2024-03-01,28.15
+Hoshiarpur,2024-04-01,21.89
+Hoshiarpur,2024-05-01,27.36
+Hoshiarpur,2024-06-01,35.68
+Hoshiarpur,2024-07-01,47.22
+Hoshiarpur,2024-08-01,30.75
+Hoshiarpur,2024-09-01,32.71
+Hoshiarpur,2024-10-01,37.65
+Hoshiarpur,2024-11-01,78.07
+Hoshiarpur,2024-12-01,76.25
+Hoshiarpur,2025-01-01,97.2
+Hoshiarpur,2025-02-01,51.0
+Hoshiarpur,2025-03-01,26.65
+Hoshiarpur,2025-04-01,27.53
+Hoshiarpur,2025-05-01,40.4
+Hoshiarpur,2025-06-01,44.81
+Hoshiarpur,2025-07-01,47.51
+Hoshiarpur,2025-08-01,45.42
+Hoshiarpur,2025-09-01,40.19
+Hoshiarpur,2025-10-01,37.56
+Hoshiarpur,2025-11-01,53.95
+Hoshiarpur,2025-12-01,91.16
+Hoshiarpur,2026-01-01,102.83
+Hoshiarpur,2026-02-01,55.92
+Hoshiarpur,2026-03-01,34.02
+Hoshiarpur,2026-04-01,19.96
+Hoshiarpur,2026-05-01,32.73
+Hoshiarpur,2026-06-01,38.86
+Hoshiarpur,2026-07-01,48.53
+Hoshiarpur,2026-08-01,43.19
+Hoshiarpur,2026-09-01,46.06
+Jalandhar,2022-08-01,35.86
+Jalandhar,2022-09-01,50.38
+Jalandhar,2022-10-01,68.93
+Jalandhar,2022-11-01,76.25
+Jalandhar,2022-12-01,84.14
+Jalandhar,2023-01-01,98.82
+Jalandhar,2023-02-01,58.51
+Jalandhar,2023-03-01,42.47
+Jalandhar,2023-04-01,33.27
+Jalandhar,2023-05-01,35.72
+Jalandhar,2023-06-01,38.43
+Jalandhar,2023-07-01,41.03
+Jalandhar,2023-08-01,51.53
+Jalandhar,2023-09-01,40.49
+Jalandhar,2023-10-01,45.75
+Jalandhar,2023-11-01,66.5
+Jalandhar,2023-12-01,97.55
+Jalandhar,2024-01-01,128.17
+Jalandhar,2024-02-01,58.89
+Jalandhar,2024-03-01,38.22
+Jalandhar,2024-04-01,28.38
+Jalandhar,2024-05-01,37.04
+Jalandhar,2024-06-01,40.72
+Jalandhar,2024-07-01,51.52
+Jalandhar,2024-08-01,32.92
+Jalandhar,2024-09-01,41.43
+Jalandhar,2024-10-01,55.2
+Jalandhar,2024-11-01,109.47
+Jalandhar,2024-12-01,115.0
+Jalandhar,2025-01-01,148.75
+Jalandhar,2025-02-01,80.86
+Jalandhar,2025-03-01,38.59
+Jalandhar,2025-04-01,43.68
+Jalandhar,2025-05-01,65.1
+Jalandhar,2025-06-01,59.25
+Jalandhar,2025-07-01,58.76
+Jalandhar,2025-08-01,59.22
+Jalandhar,2025-09-01,47.99
+Jalandhar,2025-10-01,49.76
+Jalandhar,2025-11-01,85.76
+Jalandhar,2025-12-01,131.7
+Jalandhar,2026-01-01,155.74
+Jalandhar,2026-02-01,100.56
+Jalandhar,2026-03-01,52.39
+Jalandhar,2026-04-01,26.51
+Jalandhar,2026-05-01,48.0
+Jalandhar,2026-06-01,56.29
+Jalandhar,2026-07-01,67.64
+Jalandhar,2026-08-01,63.3
+Jalandhar,2026-09-01,58.9
+Kapurthala,2022-08-01,32.69
+Kapurthala,2022-09-01,48.12
+Kapurthala,2022-10-01,80.64
+Kapurthala,2022-11-01,84.45
+Kapurthala,2022-12-01,90.31
+Kapurthala,2023-01-01,101.91
+Kapurthala,2023-02-01,58.61
+Kapurthala,2023-03-01,42.41
+Kapurthala,2023-04-01,32.27
+Kapurthala,2023-05-01,34.58
+Kapurthala,2023-06-01,37.15
+Kapurthala,2023-07-01,38.8
+Kapurthala,2023-08-01,50.55
+Kapurthala,2023-09-01,39.41
+Kapurthala,2023-10-01,50.66
+Kapurthala,2023-11-01,78.11
+Kapurthala,2023-12-01,106.25
+Kapurthala,2024-01-01,135.75
+Kapurthala,2024-02-01,61.76
+Kapurthala,2024-03-01,39.69
+Kapurthala,2024-04-01,29.68
+Kapurthala,2024-05-01,38.77
+Kapurthala,2024-06-01,41.42
+Kapurthala,2024-07-01,49.61
+Kapurthala,2024-08-01,30.84
+Kapurthala,2024-09-01,41.19
+Kapurthala,2024-10-01,57.7
+Kapurthala,2024-11-01,119.48
+Kapurthala,2024-12-01,117.11
+Kapurthala,2025-01-01,146.97
+Kapurthala,2025-02-01,81.91
+Kapurthala,2025-03-01,39.85
+Kapurthala,2025-04-01,50.56
+Kapurthala,2025-05-01,72.93
+Kapurthala,2025-06-01,63.52
+Kapurthala,2025-07-01,56.27
+Kapurthala,2025-08-01,53.88
+Kapurthala,2025-09-01,42.07
+Kapurthala,2025-10-01,54.32
+Kapurthala,2025-11-01,99.4
+Kapurthala,2025-12-01,135.52
+Kapurthala,2026-01-01,168.4
+Kapurthala,2026-02-01,103.68
+Kapurthala,2026-03-01,53.52
+Kapurthala,2026-04-01,28.91
+Kapurthala,2026-05-01,56.14
+Kapurthala,2026-06-01,60.37
+Kapurthala,2026-07-01,68.03
+Kapurthala,2026-08-01,59.77
+Kapurthala,2026-09-01,58.45
+Ludhiana,2022-08-01,37.0
+Ludhiana,2022-09-01,54.55
+Ludhiana,2022-10-01,65.38
+Ludhiana,2022-11-01,75.58
+Ludhiana,2022-12-01,80.1
+Ludhiana,2023-01-01,95.94
+Ludhiana,2023-02-01,58.89
+Ludhiana,2023-03-01,46.37
+Ludhiana,2023-04-01,36.23
+Ludhiana,2023-05-01,40.84
+Ludhiana,2023-06-01,40.97
+Ludhiana,2023-07-01,40.55
+Ludhiana,2023-08-01,54.03
+Ludhiana,2023-09-01,41.66
+Ludhiana,2023-10-01,46.25
+Ludhiana,2023-11-01,65.44
+Ludhiana,2023-12-01,93.22
+Ludhiana,2024-01-01,124.54
+Ludhiana,2024-02-01,56.56
+Ludhiana,2024-03-01,38.1
+Ludhiana,2024-04-01,29.09
+Ludhiana,2024-05-01,38.08
+Ludhiana,2024-06-01,41.63
+Ludhiana,2024-07-01,50.01
+Ludhiana,2024-08-01,33.11
+Ludhiana,2024-09-01,41.3
+Ludhiana,2024-10-01,55.21
+Ludhiana,2024-11-01,112.22
+Ludhiana,2024-12-01,108.62
+Ludhiana,2025-01-01,148.61
+Ludhiana,2025-02-01,81.9
+Ludhiana,2025-03-01,41.31
+Ludhiana,2025-04-01,47.46
+Ludhiana,2025-05-01,73.81
+Ludhiana,2025-06-01,65.06
+Ludhiana,2025-07-01,56.4
+Ludhiana,2025-08-01,61.19
+Ludhiana,2025-09-01,48.51
+Ludhiana,2025-10-01,61.51
+Ludhiana,2025-11-01,87.92
+Ludhiana,2025-12-01,128.85
+Ludhiana,2026-01-01,147.84
+Ludhiana,2026-02-01,102.39
+Ludhiana,2026-03-01,55.5
+Ludhiana,2026-04-01,28.57
+Ludhiana,2026-05-01,52.27
+Ludhiana,2026-06-01,64.77
+Ludhiana,2026-07-01,65.31
+Ludhiana,2026-08-01,63.41
+Ludhiana,2026-09-01,54.24
+Mansa,2022-08-01,29.75
+Mansa,2022-09-01,41.42
+Mansa,2022-10-01,65.67
+Mansa,2022-11-01,90.87
+Mansa,2022-12-01,76.65
+Mansa,2023-01-01,92.67
+Mansa,2023-02-01,56.15
+Mansa,2023-03-01,39.95
+Mansa,2023-04-01,31.39
+Mansa,2023-05-01,36.04
+Mansa,2023-06-01,35.32
+Mansa,2023-07-01,37.27
+Mansa,2023-08-01,54.25
+Mansa,2023-09-01,34.51
+Mansa,2023-10-01,48.35
+Mansa,2023-11-01,85.34
+Mansa,2023-12-01,89.06
+Mansa,2024-01-01,115.61
+Mansa,2024-02-01,51.2
+Mansa,2024-03-01,41.5
+Mansa,2024-04-01,37.55
+Mansa,2024-05-01,49.14
+Mansa,2024-06-01,49.4
+Mansa,2024-07-01,45.78
+Mansa,2024-08-01,27.85
+Mansa,2024-09-01,38.54
+Mansa,2024-10-01,51.3
+Mansa,2024-11-01,117.07
+Mansa,2024-12-01,102.25
+Mansa,2025-01-01,134.14
+Mansa,2025-02-01,76.88
+Mansa,2025-03-01,70.87
+Mansa,2025-04-01,121.03
+Mansa,2025-05-01,178.24
+Mansa,2025-06-01,131.93
+Mansa,2025-07-01,71.14
+Mansa,2025-08-01,58.27
+Mansa,2025-09-01,37.03
+Mansa,2025-10-01,63.81
+Mansa,2025-11-01,101.15
+Mansa,2025-12-01,122.58
+Mansa,2026-01-01,144.66
+Mansa,2026-02-01,90.68
+Mansa,2026-03-01,68.39
+Mansa,2026-04-01,74.98
+Mansa,2026-05-01,178.31
+Mansa,2026-06-01,141.14
+Mansa,2026-07-01,108.24
+Mansa,2026-08-01,64.51
+Mansa,2026-09-01,55.8
+Moga,2022-08-01,30.66
+Moga,2022-09-01,45.26
+Moga,2022-10-01,71.5
+Moga,2022-11-01,88.46
+Moga,2022-12-01,82.07
+Moga,2023-01-01,95.56
+Moga,2023-02-01,56.82
+Moga,2023-03-01,40.06
+Moga,2023-04-01,32.23
+Moga,2023-05-01,36.12
+Moga,2023-06-01,36.18
+Moga,2023-07-01,37.85
+Moga,2023-08-01,52.01
+Moga,2023-09-01,36.5
+Moga,2023-10-01,48.78
+Moga,2023-11-01,82.21
+Moga,2023-12-01,98.65
+Moga,2024-01-01,128.24
+Moga,2024-02-01,56.33
+Moga,2024-03-01,38.02
+Moga,2024-04-01,31.01
+Moga,2024-05-01,41.13
+Moga,2024-06-01,42.73
+Moga,2024-07-01,48.81
+Moga,2024-08-01,29.07
+Moga,2024-09-01,39.38
+Moga,2024-10-01,54.87
+Moga,2024-11-01,119.54
+Moga,2024-12-01,111.82
+Moga,2025-01-01,145.13
+Moga,2025-02-01,80.9
+Moga,2025-03-01,45.88
+Moga,2025-04-01,64.35
+Moga,2025-05-01,94.14
+Moga,2025-06-01,78.54
+Moga,2025-07-01,56.3
+Moga,2025-08-01,51.67
+Moga,2025-09-01,38.28
+Moga,2025-10-01,55.95
+Moga,2025-11-01,99.09
+Moga,2025-12-01,133.37
+Moga,2026-01-01,163.24
+Moga,2026-02-01,98.21
+Moga,2026-03-01,52.98
+Moga,2026-04-01,35.41
+Moga,2026-05-01,79.77
+Moga,2026-06-01,78.71
+Moga,2026-07-01,75.93
+Moga,2026-08-01,62.97
+Moga,2026-09-01,56.88
+Muktsar,2022-08-01,28.36
+Muktsar,2022-09-01,40.67
+Muktsar,2022-10-01,64.54
+Muktsar,2022-11-01,97.15
+Muktsar,2022-12-01,80.54
+Muktsar,2023-01-01,90.6
+Muktsar,2023-02-01,57.16
+Muktsar,2023-03-01,38.96
+Muktsar,2023-04-01,31.41
+Muktsar,2023-05-01,36.14
+Muktsar,2023-06-01,33.63
+Muktsar,2023-07-01,38.49
+Muktsar,2023-08-01,51.27
+Muktsar,2023-09-01,35.1
+Muktsar,2023-10-01,48.31
+Muktsar,2023-11-01,88.32
+Muktsar,2023-12-01,92.95
+Muktsar,2024-01-01,127.67
+Muktsar,2024-02-01,51.04
+Muktsar,2024-03-01,35.99
+Muktsar,2024-04-01,28.0
+Muktsar,2024-05-01,34.54
+Muktsar,2024-06-01,41.78
+Muktsar,2024-07-01,49.56
+Muktsar,2024-08-01,28.54
+Muktsar,2024-09-01,40.57
+Muktsar,2024-10-01,50.58
+Muktsar,2024-11-01,117.4
+Muktsar,2024-12-01,116.26
+Muktsar,2025-01-01,129.85
+Muktsar,2025-02-01,75.47
+Muktsar,2025-03-01,38.37
+Muktsar,2025-04-01,49.57
+Muktsar,2025-05-01,70.36
+Muktsar,2025-06-01,63.3
+Muktsar,2025-07-01,49.95
+Muktsar,2025-08-01,43.82
+Muktsar,2025-09-01,32.11
+Muktsar,2025-10-01,62.7
+Muktsar,2025-11-01,104.7
+Muktsar,2025-12-01,125.58
+Muktsar,2026-01-01,147.28
+Muktsar,2026-02-01,80.78
+Muktsar,2026-03-01,45.8
+Muktsar,2026-04-01,26.44
+Muktsar,2026-05-01,66.0
+Muktsar,2026-06-01,68.44
+Muktsar,2026-07-01,75.54
+Muktsar,2026-08-01,57.81
+Muktsar,2026-09-01,50.95
+Nawan Shehar,2022-08-01,35.25
+Nawan Shehar,2022-09-01,47.4
+Nawan Shehar,2022-10-01,56.42
+Nawan Shehar,2022-11-01,65.3
+Nawan Shehar,2022-12-01,73.99
+Nawan Shehar,2023-01-01,89.77
+Nawan Shehar,2023-02-01,50.11
+Nawan Shehar,2023-03-01,39.55
+Nawan Shehar,2023-04-01,29.71
+Nawan Shehar,2023-05-01,33.98
+Nawan Shehar,2023-06-01,38.13
+Nawan Shehar,2023-07-01,42.38
+Nawan Shehar,2023-08-01,51.23
+Nawan Shehar,2023-09-01,40.5
+Nawan Shehar,2023-10-01,38.1
+Nawan Shehar,2023-11-01,52.22
+Nawan Shehar,2023-12-01,83.07
+Nawan Shehar,2024-01-01,119.78
+Nawan Shehar,2024-02-01,51.37
+Nawan Shehar,2024-03-01,34.81
+Nawan Shehar,2024-04-01,25.68
+Nawan Shehar,2024-05-01,33.38
+Nawan Shehar,2024-06-01,40.28
+Nawan Shehar,2024-07-01,52.03
+Nawan Shehar,2024-08-01,34.36
+Nawan Shehar,2024-09-01,39.76
+Nawan Shehar,2024-10-01,46.44
+Nawan Shehar,2024-11-01,96.49
+Nawan Shehar,2024-12-01,101.24
+Nawan Shehar,2025-01-01,134.84
+Nawan Shehar,2025-02-01,70.73
+Nawan Shehar,2025-03-01,35.72
+Nawan Shehar,2025-04-01,36.69
+Nawan Shehar,2025-05-01,56.01
+Nawan Shehar,2025-06-01,54.86
+Nawan Shehar,2025-07-01,54.97
+Nawan Shehar,2025-08-01,57.29
+Nawan Shehar,2025-09-01,48.83
+Nawan Shehar,2025-10-01,54.06
+Nawan Shehar,2025-11-01,74.32
+Nawan Shehar,2025-12-01,120.95
+Nawan Shehar,2026-01-01,134.74
+Nawan Shehar,2026-02-01,87.03
+Nawan Shehar,2026-03-01,48.67
+Nawan Shehar,2026-04-01,25.62
+Nawan Shehar,2026-05-01,42.96
+Nawan Shehar,2026-06-01,52.22
+Nawan Shehar,2026-07-01,60.11
+Nawan Shehar,2026-08-01,57.0
+Nawan Shehar,2026-09-01,53.24
+Patiala,2022-08-01,35.19
+Patiala,2022-09-01,48.67
+Patiala,2022-10-01,62.94
+Patiala,2022-11-01,74.38
+Patiala,2022-12-01,73.67
+Patiala,2023-01-01,85.82
+Patiala,2023-02-01,56.26
+Patiala,2023-03-01,44.05
+Patiala,2023-04-01,34.96
+Patiala,2023-05-01,40.5
+Patiala,2023-06-01,40.04
+Patiala,2023-07-01,35.26
+Patiala,2023-08-01,50.29
+Patiala,2023-09-01,37.61
+Patiala,2023-10-01,44.3
+Patiala,2023-11-01,63.27
+Patiala,2023-12-01,81.17
+Patiala,2024-01-01,110.54
+Patiala,2024-02-01,49.7
+Patiala,2024-03-01,38.72
+Patiala,2024-04-01,34.25
+Patiala,2024-05-01,45.54
+Patiala,2024-06-01,51.62
+Patiala,2024-07-01,43.69
+Patiala,2024-08-01,29.86
+Patiala,2024-09-01,35.96
+Patiala,2024-10-01,50.89
+Patiala,2024-11-01,100.31
+Patiala,2024-12-01,91.83
+Patiala,2025-01-01,124.42
+Patiala,2025-02-01,70.77
+Patiala,2025-03-01,57.22
+Patiala,2025-04-01,67.32
+Patiala,2025-05-01,94.15
+Patiala,2025-06-01,83.11
+Patiala,2025-07-01,54.94
+Patiala,2025-08-01,58.17
+Patiala,2025-09-01,44.15
+Patiala,2025-10-01,69.32
+Patiala,2025-11-01,83.08
+Patiala,2025-12-01,107.41
+Patiala,2026-01-01,122.27
+Patiala,2026-02-01,89.1
+Patiala,2026-03-01,62.0
+Patiala,2026-04-01,51.61
+Patiala,2026-05-01,87.12
+Patiala,2026-06-01,92.58
+Patiala,2026-07-01,62.98
+Patiala,2026-08-01,61.87
+Patiala,2026-09-01,55.99
+Rupnagar,2022-08-01,38.12
+Rupnagar,2022-09-01,53.06
+Rupnagar,2022-10-01,63.04
+Rupnagar,2022-11-01,71.07
+Rupnagar,2022-12-01,76.5
+Rupnagar,2023-01-01,91.99
+Rupnagar,2023-02-01,56.31
+Rupnagar,2023-03-01,46.19
+Rupnagar,2023-04-01,35.87
+Rupnagar,2023-05-01,40.96
+Rupnagar,2023-06-01,42.7
+Rupnagar,2023-07-01,39.59
+Rupnagar,2023-08-01,51.75
+Rupnagar,2023-09-01,41.07
+Rupnagar,2023-10-01,42.01
+Rupnagar,2023-11-01,57.63
+Rupnagar,2023-12-01,88.37
+Rupnagar,2024-01-01,124.65
+Rupnagar,2024-02-01,52.51
+Rupnagar,2024-03-01,35.73
+Rupnagar,2024-04-01,27.54
+Rupnagar,2024-05-01,35.56
+Rupnagar,2024-06-01,42.15
+Rupnagar,2024-07-01,49.51
+Rupnagar,2024-08-01,33.23
+Rupnagar,2024-09-01,38.77
+Rupnagar,2024-10-01,48.07
+Rupnagar,2024-11-01,98.87
+Rupnagar,2024-12-01,100.18
+Rupnagar,2025-01-01,134.18
+Rupnagar,2025-02-01,74.67
+Rupnagar,2025-03-01,40.92
+Rupnagar,2025-04-01,39.91
+Rupnagar,2025-05-01,57.98
+Rupnagar,2025-06-01,57.1
+Rupnagar,2025-07-01,54.61
+Rupnagar,2025-08-01,59.95
+Rupnagar,2025-09-01,49.36
+Rupnagar,2025-10-01,61.07
+Rupnagar,2025-11-01,77.72
+Rupnagar,2025-12-01,120.06
+Rupnagar,2026-01-01,133.5
+Rupnagar,2026-02-01,92.27
+Rupnagar,2026-03-01,52.18
+Rupnagar,2026-04-01,27.73
+Rupnagar,2026-05-01,42.7
+Rupnagar,2026-06-01,57.05
+Rupnagar,2026-07-01,59.52
+Rupnagar,2026-08-01,61.73
+Rupnagar,2026-09-01,55.53
+Sangrur,2022-08-01,32.93
+Sangrur,2022-09-01,47.17
+Sangrur,2022-10-01,61.52
+Sangrur,2022-11-01,76.72
+Sangrur,2022-12-01,72.82
+Sangrur,2023-01-01,87.59
+Sangrur,2023-02-01,55.65
+Sangrur,2023-03-01,41.75
+Sangrur,2023-04-01,33.11
+Sangrur,2023-05-01,38.59
+Sangrur,2023-06-01,38.0
+Sangrur,2023-07-01,36.59
+Sangrur,2023-08-01,54.24
+Sangrur,2023-09-01,38.38
+Sangrur,2023-10-01,48.86
+Sangrur,2023-11-01,71.06
+Sangrur,2023-12-01,86.74
+Sangrur,2024-01-01,113.19
+Sangrur,2024-02-01,52.74
+Sangrur,2024-03-01,43.39
+Sangrur,2024-04-01,41.38
+Sangrur,2024-05-01,55.29
+Sangrur,2024-06-01,55.88
+Sangrur,2024-07-01,45.91
+Sangrur,2024-08-01,30.33
+Sangrur,2024-09-01,38.41
+Sangrur,2024-10-01,55.27
+Sangrur,2024-11-01,112.04
+Sangrur,2024-12-01,99.68
+Sangrur,2025-01-01,136.77
+Sangrur,2025-02-01,75.72
+Sangrur,2025-03-01,67.05
+Sangrur,2025-04-01,101.31
+Sangrur,2025-05-01,140.35
+Sangrur,2025-06-01,110.68
+Sangrur,2025-07-01,62.88
+Sangrur,2025-08-01,59.92
+Sangrur,2025-09-01,44.66
+Sangrur,2025-10-01,70.19
+Sangrur,2025-11-01,95.78
+Sangrur,2025-12-01,121.08
+Sangrur,2026-01-01,142.08
+Sangrur,2026-02-01,97.37
+Sangrur,2026-03-01,69.4
+Sangrur,2026-04-01,69.89
+Sangrur,2026-05-01,136.77
+Sangrur,2026-06-01,124.09
+Sangrur,2026-07-01,82.75
+Sangrur,2026-08-01,65.25
+Sangrur,2026-09-01,57.26
